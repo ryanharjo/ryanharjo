@@ -5,6 +5,8 @@
 - 📫 How to reach me ... ryan.harjo@gctcok.edu
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... It’s impossible to hum while holding your nose.
+- 😒🙄😞
+- 
 
 <!---
 ryanharjo/ryanharjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
